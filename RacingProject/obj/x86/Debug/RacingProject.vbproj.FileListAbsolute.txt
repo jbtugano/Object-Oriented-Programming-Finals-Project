@@ -1,0 +1,9 @@
+C:\Users\_Seph\documents\visual studio 2010\Projects\RacingProject\RacingProject\bin\Debug\RacingProject.exe
+C:\Users\_Seph\documents\visual studio 2010\Projects\RacingProject\RacingProject\bin\Debug\RacingProject.pdb
+C:\Users\_Seph\documents\visual studio 2010\Projects\RacingProject\RacingProject\bin\Debug\RacingProject.xml
+C:\Users\_Seph\documents\visual studio 2010\Projects\RacingProject\RacingProject\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\_Seph\documents\visual studio 2010\Projects\RacingProject\RacingProject\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\_Seph\documents\visual studio 2010\Projects\RacingProject\RacingProject\obj\x86\Debug\RacingProject.vbproj.GenerateResource.Cache
+C:\Users\_Seph\documents\visual studio 2010\Projects\RacingProject\RacingProject\obj\x86\Debug\RacingProject.exe
+C:\Users\_Seph\documents\visual studio 2010\Projects\RacingProject\RacingProject\obj\x86\Debug\RacingProject.xml
+C:\Users\_Seph\documents\visual studio 2010\Projects\RacingProject\RacingProject\obj\x86\Debug\RacingProject.pdb

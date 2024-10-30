@@ -1,0 +1,11 @@
+C:\Users\_Seph\Documents\Visual Studio 2010\Projects\RacingProject\RacingProject\bin\Debug\RacingProject.exe
+C:\Users\_Seph\Documents\Visual Studio 2010\Projects\RacingProject\RacingProject\bin\Debug\RacingProject.pdb
+C:\Users\_Seph\Documents\Visual Studio 2010\Projects\RacingProject\RacingProject\bin\Debug\RacingProject.xml
+C:\Users\_Seph\Documents\Visual Studio 2010\Projects\RacingProject\RacingProject\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\_Seph\Documents\Visual Studio 2010\Projects\RacingProject\RacingProject\obj\x86\Debug\ARacingProject.vbproj.GenerateResource.Cache
+C:\Users\_Seph\Documents\Visual Studio 2010\Projects\RacingProject\RacingProject\obj\x86\Debug\RacingProject.exe
+C:\Users\_Seph\Documents\Visual Studio 2010\Projects\RacingProject\RacingProject\obj\x86\Debug\RacingProject.xml
+C:\Users\_Seph\Documents\Visual Studio 2010\Projects\RacingProject\RacingProject\obj\x86\Debug\RacingProject.pdb
+C:\Users\_Seph\Documents\Visual Studio 2010\Projects\RacingProject\RacingProject\obj\x86\Debug\WindowsApplication1.MainGame.resources
+C:\Users\_Seph\Documents\Visual Studio 2010\Projects\RacingProject\RacingProject\obj\x86\Debug\WindowsApplication1.HelpWindow.resources
+C:\Users\_Seph\Documents\Visual Studio 2010\Projects\RacingProject\RacingProject\obj\x86\Debug\WindowsApplication1.StartWindow.resources
